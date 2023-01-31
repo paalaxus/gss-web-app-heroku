@@ -1,1 +1,1 @@
-# gss-web-app-heroku
+# gss-web-app-streamlit
